@@ -6,7 +6,7 @@ class AppColors {
   static const Color pink = Color(0xFFC70D4F);
   static const Color primary = Color(0xFFF26B55);
   static const Color peach = Color(0xFFFCE2B8);
-  static const Color appBarColor = Color(0xFFFC4759);
+  static const Color appBarColor = Color(0xFFDF2A0C);
   static const Color grey = Color(0xFF808080);
   static const Color silver = Color(0xFFC0C0C0);
   static const Color serenade = Color(0xFFF8D7D5);
