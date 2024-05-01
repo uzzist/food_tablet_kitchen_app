@@ -13,6 +13,9 @@ class AppColors {
   static const Color champagne = Color(0xFFFCF1DF);
   static const Color beige = Color(0xFFF8ECD5);
   static const Color light_lavender = Color(0xFFE7E3F3);
+  static const Color radical_red = Color(0xFFFC4759);
+  static const Color red = Color(0xFFAD1C05);
+  static const Color green = Color(0xFF7BAA20);
 
   AppColors._();
 }
